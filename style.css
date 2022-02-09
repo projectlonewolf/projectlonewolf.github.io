@@ -332,6 +332,7 @@ h3 {
 }
 
 a[href] {
+    width: fit-content;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.2rem;
